@@ -54,4 +54,14 @@ ENV/
 
 # Misc
 .DS_Store
-wandb/ 
+wandb/ .cursor-server/
+
+# IDE and Editor files
+.cursor-server/
+.cursor-server/**
+.vscode/
+.idea/
+*.log
+
+# Add to existing ignores
+

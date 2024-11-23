@@ -1,5 +1,0 @@
-Listening on 127.0.0.1:50045
-[2024-11-23 12:02:56] info Disposed of connection to running server.
-looking for token 7d4a970c-c3bc-4ec4-bfed-701d9cb952db, got Some("7d4a970c-c3bc-4ec4-bfed-701d9cb952db")
-[2024-11-23 12:02:57] info Checking /teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/log.txt and /teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/pid.txt for a running server...
-[2024-11-23 12:02:57] info Found running server (pid=18035)
