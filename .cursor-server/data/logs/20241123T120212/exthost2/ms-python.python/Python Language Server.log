@@ -1,0 +1,21 @@
+2024-11-23 12:12:06.652 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-11-23 12:12:07.066 [info] [Info  - 12:12:07 PM] (25159) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-11-23 12:12:07.067 [info] [Info  - 12:12:07 PM] (25159) Server root directory: file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-11-23 12:12:07.075 [info] [Info  - 12:12:07 PM] (25159) Starting service instance "this_studio"
+2024-11-23 12:12:07.111 [info] [Info  - 12:12:07 PM] (25159) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-11-23 12:12:07.112 [info] [Info  - 12:12:07 PM] (25159) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-11-23 12:12:07.112 [info] [Info  - 12:12:07 PM] (25159) No include entries specified; assuming /teamspace/studios/this_studio
+2024-11-23 12:12:07.113 [info] [Info  - 12:12:07 PM] (25159) Auto-excluding **/node_modules
+2024-11-23 12:12:07.113 [info] [Info  - 12:12:07 PM] (25159) Auto-excluding **/__pycache__
+2024-11-23 12:12:07.113 [info] [Info  - 12:12:07 PM] (25159) Auto-excluding **/.*
+2024-11-23 12:12:07.139 [info] [Info  - 12:12:07 PM] (25159) Assuming Python version 3.10.10.final.0
+2024-11-23 12:12:07.237 [info] [Info  - 12:12:07 PM] (25159) Found 2 source files
+2024-11-23 12:12:07.462 [info] [Info  - 12:12:07 PM] (25159) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-11-23 12:12:07.464 [info] [Info  - 12:12:07 PM] (25159) Background analysis(1) started
+2024-11-23 12:12:07.616 [info] [Info  - 12:12:07 PM] (25159) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-11-23 12:12:07.616 [info] [Info  - 12:12:07 PM] (25159) Indexing(2) started
+2024-11-23 12:12:08.226 [info] [Info  - 12:12:08 PM] (25159) scanned(2) 387 files over 1 exec env
+2024-11-23 12:12:11.985 [info] [Info  - 12:12:11 PM] (25159) [IDX(2)] Long operation: index execution environment file:///teamspace/studios/this_studio (3485ms)
+2024-11-23 12:12:12.025 [info] [Info  - 12:12:12 PM] (25159) [IDX(2)] Long operation: index packages file:///teamspace/studios/this_studio (3536ms)
+2024-11-23 12:12:12.025 [info] [Info  - 12:12:12 PM] (25159) indexed(2) 300 files over 1 exec env
+2024-11-23 12:12:12.139 [info] [Info  - 12:12:12 PM] (25159) Indexing finished(2).

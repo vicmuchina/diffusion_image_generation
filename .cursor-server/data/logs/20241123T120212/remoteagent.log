@@ -1,0 +1,220 @@
+2024-11-23 12:02:12.521 [info] 
+
+
+
+
+2024-11-23 12:02:12.529 [info] Extension host agent started.
+2024-11-23 12:02:12.540 [info] Started initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.cursor-server/extensions
+2024-11-23 12:02:12.548 [info] Completed initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.cursor-server/extensions
+2024-11-23 12:02:13.424 [info] [<unknown>][0862787e][ManagementConnection] New connection established.
+2024-11-23 12:02:13.435 [info] [<unknown>][af6a3594][ExtensionHostConnection] New connection established.
+2024-11-23 12:02:13.544 [info] [<unknown>][af6a3594][ExtensionHostConnection] <18078> Launched Extension Host Process.
+2024-11-23 12:02:29.247 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:29.249 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:29.249 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:29.249 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:29.721 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.updateTitle (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:29.721 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.updateIcon (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26496)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:02:36.628 [info] [<unknown>][0862787e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 12:02:36.684 [info] [<unknown>][af6a3594][ExtensionHostConnection] <18078> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 12:02:36.685 [info] Cancelling previous shutdown timeout
+2024-11-23 12:02:36.685 [info] Last EH closed, waiting before shutting down
+2024-11-23 12:02:59.363 [info] [<unknown>][fb6da032][ExtensionHostConnection] New connection established.
+2024-11-23 12:02:59.367 [info] [<unknown>][fb6da032][ExtensionHostConnection] <18500> Launched Extension Host Process.
+2024-11-23 12:02:59.375 [info] [<unknown>][7df8a773][ManagementConnection] New connection established.
+2024-11-23 12:03:13.029 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:03:13.341 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:03:13.342 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:03:13.342 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.resize (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:27446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:03:13.909 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.updateIcon (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26496)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:03:13.910 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:31247)
+    at L.updateTitle (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:26446)
+    at S.A.<computed> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:54:21705)
+    at Object.call (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:37:5380)
+    at c.s (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:5507)
+    at c.q (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4948)
+    at g.value (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:35:4248)
+    at n.B (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:741)
+    at n.fire (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:30:958)
+    at process.be (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/platform/terminal/node/ptyHostMain.js:25:11119)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 12:07:36.685 [info] New EH opened, aborting shutdown
+2024-11-23 12:07:36.687 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/vs/server/node/server.main.js:191:6428)
+    at process.emit (node:events:531:35)
+2024-11-23 12:11:52.913 [info] Getting Manifest... ms-python.python
+2024-11-23 12:11:52.934 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"0.42.5","date":"2024-11-14T00:24:31.787Z","vscodeVersion":"1.93.1"}}
+2024-11-23 12:11:53.449 [info] Getting Manifest... ms-python.vscode-pylance
+2024-11-23 12:11:53.456 [info] Getting Manifest... ms-python.debugpy
+2024-11-23 12:11:53.471 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"0.42.5","date":"2024-11-14T00:24:31.787Z","vscodeVersion":"1.93.1"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-23 12:11:53.471 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.cursor-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"0.42.5","date":"2024-11-14T00:24:31.787Z","vscodeVersion":"1.93.1"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-23 12:11:53.473 [info] Started downloading extension: ms-python.python 2024.12.3 file:///teamspace/studios/this_studio/.cursor-server/data/CachedExtensionVSIXs/cursor-ms-python.python-2024.12.3-linux-x64
+2024-11-23 12:11:53.474 [info] Started downloading extension: ms-python.vscode-pylance 2024.8.1 file:///teamspace/studios/this_studio/.cursor-server/data/CachedExtensionVSIXs/cursor-ms-python.vscode-pylance-2024.8.1
+2024-11-23 12:11:53.476 [info] Started downloading extension: ms-python.debugpy 2024.6.0 file:///teamspace/studios/this_studio/.cursor-server/data/CachedExtensionVSIXs/cursor-ms-python.debugpy-2024.6.0-linux-x64
+2024-11-23 12:11:53.662 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/server-main.js
+2024-11-23 12:11:53.662 [info] Extension signature verification is not done: ms-python.python
+2024-11-23 12:11:53.728 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/server-main.js
+2024-11-23 12:11:53.729 [info] Extension signature verification is not done: ms-python.debugpy
+2024-11-23 12:11:54.264 [info] Extracted extension to file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-11-23 12:11:54.267 [info] Renamed to /teamspace/studios/this_studio/.cursor-server/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-11-23 12:11:54.676 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /teamspace/studios/this_studio/.cursor-server/cli/servers/Stable-001668006cc714afd397f4ef0d52862f5a095530/server/out/server-main.js
+2024-11-23 12:11:54.676 [info] Extension signature verification is not done: ms-python.vscode-pylance
+2024-11-23 12:11:55.228 [info] Extracted extension to file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.python-2024.12.3-linux-x64: ms-python.python
+2024-11-23 12:11:55.233 [info] Renamed to /teamspace/studios/this_studio/.cursor-server/extensions/ms-python.python-2024.12.3-linux-x64
+2024-11-23 12:11:58.742 [info] Extracted extension to file:///teamspace/studios/this_studio/.cursor-server/extensions/ms-python.vscode-pylance-2024.8.1: ms-python.vscode-pylance
+2024-11-23 12:11:58.754 [info] Renamed to /teamspace/studios/this_studio/.cursor-server/extensions/ms-python.vscode-pylance-2024.8.1
+2024-11-23 12:11:58.768 [info] Extension installed successfully: ms-python.debugpy file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json
+2024-11-23 12:11:58.768 [info] Extension installed successfully: ms-python.python file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json
+2024-11-23 12:11:58.768 [info] Extension installed successfully: ms-python.vscode-pylance file:///teamspace/studios/this_studio/.cursor-server/extensions/extensions.json
